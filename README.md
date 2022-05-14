@@ -28,7 +28,7 @@
 
 ## Tools
 
-<img src="https://img.shields.io/badge/IDE-Rider-DD1265?style=flat-square&logo=JetBrains" />
+<img src="https://img.shields.io/badge/IDE-Rider-FC801D?style=flat-square&logo=JetBrains" />
 <img src="https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code" />
 
 ## Stats
