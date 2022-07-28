@@ -40,9 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-C#              3 hrs 12 mins   ██████████▓░░░░░░░░░░░░░░   42.72 %
-JavaScript      2 hrs 7 mins    ███████░░░░░░░░░░░░░░░░░░   28.32 %
-Other           38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
