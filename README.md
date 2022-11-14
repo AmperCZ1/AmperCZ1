@@ -40,7 +40,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+C#       3 hrs 59 mins   ███████████████████████▒░   93.51 %
+XAML     16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
+XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Csproj   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
