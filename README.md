@@ -40,10 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-C#       1 hr 13 mins    ███████████████████████░░   91.51 %
-Csproj   6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
-XML      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-XAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
