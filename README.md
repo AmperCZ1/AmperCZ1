@@ -40,10 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-C#               55 mins         ████████████████████████░   96.56 %
-GitIgnore file   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
-Csproj           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
