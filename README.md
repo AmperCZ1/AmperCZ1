@@ -39,8 +39,11 @@
 
 <!--START_SECTION:waka-->
 
-```text
-No activity tracked
+```txt
+C#               3 hrs 19 mins   ████████████████████████▓   98.83 %
+Csproj           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
