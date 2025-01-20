@@ -1,46 +1,45 @@
 # Hey There, I'm AmperCZ1
 
-## About Me
 
- - Founder of ASoft Discord BOT
+## About Me
+ - Founder of Ampersoft
  - CMRP Senior Developer
  - WTTG2+ Developer
  - Masks Of Deception Beta Tester
+ - FallenDevs Developer
 
-<a href="https://discord.gg/EgeXVMb">
-  <img align="left" alt="My Discord" src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/ampercz1/">
-  <img align="left" alt="My Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-</a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=ampercz1.ampercz1)
+## Technology Stack
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)](#)
+[![PHP](https://img.shields.io/badge/php-%23777BB4?&logo=php&logoColor=fff&style=for-the-badge)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120?logo=cshrp&logoColor=fff&style=for-the-badge)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=fff&style=for-the-badge)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff&style=for-the-badge)](#)
+[![Lua](https://img.shields.io/badge/Lua-%232C2D72?logo=lua&logoColor=fff&style=for-the-badge)](#)
 
-## Languages
+[![Unity](https://img.shields.io/badge/Unity-%23000000?logo=unity&logoColor=fff&style=for-the-badge)](#)
+[![Steam](https://img.shields.io/badge/Steam-%23000000?logo=steam&logoColor=fff&style=for-the-badge)](#)
+[![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=for-the-badge)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge)](#)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=fff&style=for-the-badge)](#)
+[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff?logo=digitalOcean&logoColor=fff&style=for-the-badge)](#)
 
-![](https://img.shields.io/badge/CSharp-823085?style=flat-square&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-<img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=fff&style=for-the-badge)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?logo=mongodb&logoColor=fff&style=for-the-badge)](#)
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=fff&style=for-the-badge)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)](#)
 
-![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff" />
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge)](#)
+[![Express.js](https://img.shields.io/badge/Express.js-%23404d59?logo=express&logoColor=%2361DAFB&style=for-the-badge)](#)
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=for-the-badge)](#)
+
 
 ## Tools
+[![PhpStorm](https://img.shields.io/badge/PhpStorm-AF1DF5?logo=phpstorm&logoColor=fff&style=for-the-badge)](#)
+[![Rider](https://img.shields.io/badge/Rider-FC801D?logo=rider&logoColor=fff&style=for-the-badge)](#)
+[![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7?logo=vsc&logoColor=fff&style=for-the-badge)](#)
 
-<img src="https://img.shields.io/badge/IDE-Rider-FC801D?style=flat-square&logo=JetBrains" />
-<img src="https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code" />
 
 ## Stats
-
-<p>
-	<img src="https://github-readme-stats.vercel.app/api?username=ampercz1&show_icons=true&theme=dracula" alt="AmperCZ1" />
-</p>
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+![](https://streak-stats.demolab.com?user=ampercz1&hide_border=true&theme=github-dark)
